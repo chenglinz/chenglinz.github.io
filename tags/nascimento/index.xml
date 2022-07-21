@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>👠 Vida on Chenglinz</title>
-    <link>https://chenglinz.github.io/posts/life/</link>
-    <description>Recent content in 👠 Vida on Chenglinz</description>
+    <title>nascimento on Chenglinz</title>
+    <link>https://chenglinz.github.io/tags/nascimento/</link>
+    <description>Recent content in nascimento on Chenglinz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jul 2022 15:50:27 +0800</lastBuildDate><atom:link href="https://chenglinz.github.io/posts/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jul 2022 15:50:27 +0800</lastBuildDate><atom:link href="https://chenglinz.github.io/tags/nascimento/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Novo Dia</title>
       <link>https://chenglinz.github.io/posts/life/novo-dia/</link>
@@ -15,6 +15,15 @@
       <guid>https://chenglinz.github.io/posts/life/novo-dia/</guid>
       <description>Nascimento Gostei imenso de uma palavra incrível: nascimento, porque isso representa uma nova partida. Lembro-me ainda da sua origem latina nasci, o que significa “nascer”. Sabendo que uma criança recém-nascida é exatamente &amp;ldquo;neonato&amp;rdquo;, isto é, o ser humano desde o nascimento até completar o primeiro mês de vida.
 Neonatus Este blog, como se fosse a minha criança, faz-me lembrar também de uma música que criei no início deste ano, a fim de celebrar o nascimento do meu primo Qianqian.</description>
+    </item>
+    
+    <item>
+      <title>🔖 Tags</title>
+      <link>https://chenglinz.github.io/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chenglinz.github.io/tags/</guid>
+      <description></description>
     </item>
     
   </channel>

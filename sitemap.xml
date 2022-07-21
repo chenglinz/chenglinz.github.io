@@ -2,22 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chenglinz.github.io/posts/music/</loc>
-  </url><url>
     <loc>https://chenglinz.github.io/posts/life/</loc>
+    <lastmod>2022-07-21T15:50:27+08:00</lastmod>
+  </url><url>
+    <loc>https://chenglinz.github.io/categories/</loc>
+    <lastmod>2022-07-21T15:50:27+08:00</lastmod>
+  </url><url>
+    <loc>https://chenglinz.github.io/</loc>
+    <lastmod>2022-07-21T15:50:27+08:00</lastmod>
+  </url><url>
+    <loc>https://chenglinz.github.io/categories/life/</loc>
+    <lastmod>2022-07-21T15:50:27+08:00</lastmod>
+  </url><url>
+    <loc>https://chenglinz.github.io/tags/nascimento/</loc>
+    <lastmod>2022-07-21T15:50:27+08:00</lastmod>
+  </url><url>
+    <loc>https://chenglinz.github.io/posts/life/novo-dia/</loc>
+    <lastmod>2022-07-21T15:50:27+08:00</lastmod>
+  </url><url>
+    <loc>https://chenglinz.github.io/tags/</loc>
+    <lastmod>2022-07-21T15:50:27+08:00</lastmod>
+  </url><url>
+    <loc>https://chenglinz.github.io/posts/</loc>
+    <lastmod>2022-07-21T15:50:27+08:00</lastmod>
+  </url><url>
+    <loc>https://chenglinz.github.io/posts/music/</loc>
   </url><url>
     <loc>https://chenglinz.github.io/posts/filologia/</loc>
   </url><url>
-    <loc>https://chenglinz.github.io/about/</loc>
-  </url><url>
-    <loc>https://chenglinz.github.io/categories/</loc>
-  </url><url>
-    <loc>https://chenglinz.github.io/</loc>
-  </url><url>
-    <loc>https://chenglinz.github.io/series/</loc>
-  </url><url>
     <loc>https://chenglinz.github.io/tags/</loc>
   </url><url>
-    <loc>https://chenglinz.github.io/posts/</loc>
+    <loc>https://chenglinz.github.io/about/</loc>
+  </url><url>
+    <loc>https://chenglinz.github.io/series/</loc>
   </url>
 </urlset>

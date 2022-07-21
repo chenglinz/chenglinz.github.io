@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>👠 Vida on Chenglinz</title>
-    <link>https://chenglinz.github.io/posts/life/</link>
-    <description>Recent content in 👠 Vida on Chenglinz</description>
+    <title>life on Chenglinz</title>
+    <link>https://chenglinz.github.io/categories/life/</link>
+    <description>Recent content in life on Chenglinz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jul 2022 15:50:27 +0800</lastBuildDate><atom:link href="https://chenglinz.github.io/posts/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jul 2022 15:50:27 +0800</lastBuildDate><atom:link href="https://chenglinz.github.io/categories/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Novo Dia</title>
       <link>https://chenglinz.github.io/posts/life/novo-dia/</link>
